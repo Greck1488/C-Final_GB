@@ -15,3 +15,23 @@ for (int i = 0; i < arrString.Length; i++)
     }
 }
 
+
+Console.WriteLine();
+Console.ForegroundColor = ConsoleColor.DarkMagenta;
+Console.WriteLine("Финальный массив с элементами, у которых три и меньше символов: ");
+
+string[] newArray = new string[newArrayLength];
+int k = 0;
+for (int i = 0; i < arrString.Length; i++)
+{
+    if (arrString[i].Length <= 3)
+    {
+        newArray[k] = arrString[i];
+        k++;
+    }
+}
+
+Console.ForegroundColor = ConsoleColor.DarkGreen;
+Console.WriteLine($"{String.Join("; ",newArray )}");
+Console.ResetColor();
+Console.ReadKey();
