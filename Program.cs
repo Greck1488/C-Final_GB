@@ -1,4 +1,4 @@
-﻿string[] arrString = { };
+﻿string[] arrString = { "322", "1195", "0432AE", "464", "Deus_Vult", "GG", "VVP", "101", "AK-47", "De_dust2", "PHP"  };
 int newArrayLength = 0;
 
 
