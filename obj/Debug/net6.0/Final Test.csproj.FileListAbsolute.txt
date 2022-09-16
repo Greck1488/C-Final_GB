@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\Обучение\Geekbrains\Homeworks GB\c# FINAL\Final Test\bin\Debug\net6.0\Final Test.exe
+C:\Users\Сергей\Desktop\Обучение\Geekbrains\Homeworks GB\c# FINAL\Final Test\bin\Debug\net6.0\Final Test.deps.json
+C:\Users\Сергей\Desktop\Обучение\Geekbrains\Homeworks GB\c# FINAL\Final Test\bin\Debug\net6.0\Final Test.runtimeconfig.json
+C:\Users\Сергей\Desktop\Обучение\Geekbrains\Homeworks GB\c# FINAL\Final Test\bin\Debug\net6.0\Final Test.dll
+C:\Users\Сергей\Desktop\Обучение\Geekbrains\Homeworks GB\c# FINAL\Final Test\bin\Debug\net6.0\Final Test.pdb
+C:\Users\Сергей\Desktop\Обучение\Geekbrains\Homeworks GB\c# FINAL\Final Test\obj\Debug\net6.0\Final Test.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\Обучение\Geekbrains\Homeworks GB\c# FINAL\Final Test\obj\Debug\net6.0\Final Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\Обучение\Geekbrains\Homeworks GB\c# FINAL\Final Test\obj\Debug\net6.0\Final Test.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\Обучение\Geekbrains\Homeworks GB\c# FINAL\Final Test\obj\Debug\net6.0\Final Test.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\Обучение\Geekbrains\Homeworks GB\c# FINAL\Final Test\obj\Debug\net6.0\Final Test.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Обучение\Geekbrains\Homeworks GB\c# FINAL\Final Test\obj\Debug\net6.0\Final Test.dll
+C:\Users\Сергей\Desktop\Обучение\Geekbrains\Homeworks GB\c# FINAL\Final Test\obj\Debug\net6.0\refint\Final Test.dll
+C:\Users\Сергей\Desktop\Обучение\Geekbrains\Homeworks GB\c# FINAL\Final Test\obj\Debug\net6.0\Final Test.pdb
+C:\Users\Сергей\Desktop\Обучение\Geekbrains\Homeworks GB\c# FINAL\Final Test\obj\Debug\net6.0\Final Test.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\Обучение\Geekbrains\Homeworks GB\c# FINAL\Final Test\obj\Debug\net6.0\ref\Final Test.dll
